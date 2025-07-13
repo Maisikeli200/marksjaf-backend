@@ -1,0 +1,24 @@
+# Node
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Next.js
+.next/
+out/
+
+# Builds
+dist/
+build/
+
+# Env and system
+.env
+.DS_Store
+Thumbs.db
+.vscode/
+
+# Logs
+*.log
+
+# OS junk
+*.swp
